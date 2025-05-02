@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-05-01)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6887](https://github.com/stdlib-js/stdlib/issues/6887)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`83bf18f`](https://github.com/stdlib-js/stdlib/commit/83bf18f82480ccae71efca244780e28f4d3a9af7) - **chore:** fix C lint errors [(#6895)](https://github.com/stdlib-js/stdlib/pull/6895) _(by zhanggy)_
 -   [`4b639f0`](https://github.com/stdlib-js/stdlib/commit/4b639f0bfee0b847a562dca5dd9e79a5c5b090fe) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`099eb56`](https://github.com/stdlib-js/stdlib/commit/099eb5668345edf1c4d3ff9bbd5a1f2d68502606) - **refactor:** update `stats/base/dmeanvarpn` native addon from C++ to C [(#4651)](https://github.com/stdlib-js/stdlib/pull/4651) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -29,12 +42,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   Philipp Burckhardt
+-   zhanggy
 
 </section>
 
