@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-01)
+## Unreleased (2025-05-14)
+
+<section class="features">
+
+### Features
+
+-   [`fcda856`](https://github.com/stdlib-js/stdlib/commit/fcda85627edc4bc8dbf0bf01b192906449e43e77) - add C ndarray interface and refactor implementation for `stats/base/dmeanvarpn`  [(#5030)](https://github.com/stdlib-js/stdlib/pull/5030)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fcda856`](https://github.com/stdlib-js/stdlib/commit/fcda85627edc4bc8dbf0bf01b192906449e43e77) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dmeanvarpn`  [(#5030)](https://github.com/stdlib-js/stdlib/pull/5030) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 -   [`83bf18f`](https://github.com/stdlib-js/stdlib/commit/83bf18f82480ccae71efca244780e28f4d3a9af7) - **chore:** fix C lint errors [(#6895)](https://github.com/stdlib-js/stdlib/pull/6895) _(by zhanggy)_
 -   [`4b639f0`](https://github.com/stdlib-js/stdlib/commit/4b639f0bfee0b847a562dca5dd9e79a5c5b090fe) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`099eb56`](https://github.com/stdlib-js/stdlib/commit/099eb5668345edf1c4d3ff9bbd5a1f2d68502606) - **refactor:** update `stats/base/dmeanvarpn` native addon from C++ to C [(#4651)](https://github.com/stdlib-js/stdlib/pull/4651) _(by Dhruv Arvind Singh)_
